@@ -58,4 +58,7 @@ dependencies {
 
     // For Extra Icons
     implementation("androidx.compose.material:material-icons-extended")
+
+    // For Constraint Layout
+    implementation("androidx.constraintlayout:constraintlayout-compose:1.1.1")
 }
