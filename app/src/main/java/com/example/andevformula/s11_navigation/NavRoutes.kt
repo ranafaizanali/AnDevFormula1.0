@@ -11,4 +11,10 @@ sealed class NavRoutes {
     @Serializable
     object NavDetails : NavRoutes()
 
+    @Serializable
+    object NavLogin : NavRoutes()
+
+    @Serializable
+    data class NavWelcome(val name: String) : NavRoutes()
+
 }
