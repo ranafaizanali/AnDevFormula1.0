@@ -4,7 +4,8 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import com.example.andevformula.s09_state_management.ParentComposable
+import com.example.andevformula.s11_navigation.NavNavigation
+import com.example.andevformula.s11_navigation.screens.NavHomeScreen
 import com.example.andevformula.ui.theme.AnDevFormulaTheme
 
 class MainActivity : ComponentActivity() {
@@ -14,7 +15,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             AnDevFormulaTheme {
 
-                ParentComposable()
+                NavNavigation()
 
             }
         }
