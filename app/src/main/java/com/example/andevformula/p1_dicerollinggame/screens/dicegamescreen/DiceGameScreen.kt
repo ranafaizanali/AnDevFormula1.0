@@ -1,4 +1,4 @@
-package com.example.andevformula.p1_dice_rolling_game.screens.dicegamescreen
+package com.example.andevformula.p1_dicerollinggame.screens.dicegamescreen
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
@@ -35,13 +35,13 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
-import com.example.andevformula.p1_dice_rolling_game.navigation.DiceRoutes
-import com.example.andevformula.p1_dice_rolling_game.navigation.ScoreImage01
-import com.example.andevformula.p1_dice_rolling_game.navigation.ScoreImage02
-import com.example.andevformula.p1_dice_rolling_game.navigation.ScoreImage03
-import com.example.andevformula.p1_dice_rolling_game.navigation.ScoreImage04
-import com.example.andevformula.p1_dice_rolling_game.navigation.ScoreImage05
-import com.example.andevformula.p1_dice_rolling_game.navigation.ScoreImage06
+import com.example.andevformula.p1_dicerollinggame.navigation.DiceRoutes
+import com.example.andevformula.p1_dicerollinggame.navigation.ScoreImage01
+import com.example.andevformula.p1_dicerollinggame.navigation.ScoreImage02
+import com.example.andevformula.p1_dicerollinggame.navigation.ScoreImage03
+import com.example.andevformula.p1_dicerollinggame.navigation.ScoreImage04
+import com.example.andevformula.p1_dicerollinggame.navigation.ScoreImage05
+import com.example.andevformula.p1_dicerollinggame.navigation.ScoreImage06
 import com.example.andevformula.ui.theme.DiceBlue
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

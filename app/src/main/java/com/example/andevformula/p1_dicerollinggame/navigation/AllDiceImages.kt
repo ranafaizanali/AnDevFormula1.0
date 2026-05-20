@@ -1,4 +1,4 @@
-package com.example.andevformula.p1_dice_rolling_game.navigation
+package com.example.andevformula.p1_dicerollinggame.navigation
 
 import androidx.compose.foundation.Image
 import androidx.compose.runtime.Composable

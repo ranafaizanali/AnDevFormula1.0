@@ -1,13 +1,13 @@
-package com.example.andevformula.p1_dice_rolling_game.navigation
+package com.example.andevformula.p1_dicerollinggame.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
-import com.example.andevformula.p1_dice_rolling_game.screens.dicegamescreen.DiceGameScreen
-import com.example.andevformula.p1_dice_rolling_game.screens.playersnamescreen.PlayersNameScreen
-import com.example.andevformula.p1_dice_rolling_game.screens.winnerscreen.WinnerScreen
+import com.example.andevformula.p1_dicerollinggame.screens.dicegamescreen.DiceGameScreen
+import com.example.andevformula.p1_dicerollinggame.screens.playersnamescreen.PlayersNameScreen
+import com.example.andevformula.p1_dicerollinggame.screens.winnerscreen.WinnerScreen
 
 @Composable
 fun DiceNavigation() {

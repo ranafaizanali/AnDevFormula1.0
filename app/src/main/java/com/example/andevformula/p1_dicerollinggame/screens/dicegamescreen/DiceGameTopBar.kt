@@ -1,4 +1,4 @@
-package com.example.andevformula.p1_dice_rolling_game.screens.dicegamescreen
+package com.example.andevformula.p1_dicerollinggame.screens.dicegamescreen
 
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -16,7 +16,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
-import com.example.andevformula.p1_dice_rolling_game.navigation.DiceRoutes
+import com.example.andevformula.p1_dicerollinggame.navigation.DiceRoutes
 import com.example.andevformula.ui.theme.DiceBlue
 
 @OptIn(ExperimentalMaterial3Api::class)

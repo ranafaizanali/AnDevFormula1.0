@@ -1,4 +1,4 @@
-package com.example.andevformula.p1_dice_rolling_game.screens.playersnamescreen
+package com.example.andevformula.p1_dicerollinggame.screens.playersnamescreen
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -38,7 +38,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import com.example.andevformula.R
-import com.example.andevformula.p1_dice_rolling_game.navigation.DiceRoutes
+import com.example.andevformula.p1_dicerollinggame.navigation.DiceRoutes
 import com.example.andevformula.ui.theme.DiceBlue
 
 @Composable
